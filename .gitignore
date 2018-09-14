@@ -6,3 +6,5 @@ coverage
 *.log
 example-ts/*.js
 package-lock.json
+*.iml
+.idea/
